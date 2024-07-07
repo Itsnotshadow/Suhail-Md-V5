@@ -26,8 +26,8 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
 
-    - name: Install dependencies
+    - name: Installing dependencies
       run: npm install
 
-    - name: Start application
+    - name: Starting Suhail-Md...
       run: npm start
