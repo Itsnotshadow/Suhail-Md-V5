@@ -6,10 +6,10 @@
 #     𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧        #
 #=============================================#
 # 
-#    * @project_name : Suhail-Md
-#    * @author : @SuhailTechInfo
-#    * @youtube : https://www.youtube.com/SuhailTechInfo
-#    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
+#    * @project_name : Mesh-Tech
+#    * @author : @Mesh Ke
+#    * @youtube : https://www.youtube.com/Meshkip
+#    * @description : Mesh-Tech ,A Multi-functional whatsapp bot md.
 #    * @version 1.3.7
 
 
