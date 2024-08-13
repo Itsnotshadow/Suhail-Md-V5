@@ -92,7 +92,7 @@ module.exports = {
 
 
   WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "Public",
-  LANG: ( process.env.THEME ||  "Mesh"  ).toUpperCase),
+  LANG: ( process.env.THEME ||  "Mesh"  ).tUpperCase(),
 
 
 
