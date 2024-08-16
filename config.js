@@ -21,7 +21,7 @@ global.github=process.env.GITHUB|| "https://github.com/MeshTechInfo/Suhail-Md-V5
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VagAqpD3gvWdo0IxmZ2Z";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VagAqpD3gvWdo0IxmZ2Z" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/MeshTechInfo/Suhail-Md-V5/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "*Powered By Mesh-Tech*" 
+global.caption = process.env.CAPTION || global.caption || "*𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙼𝙴𝚂𝙷-𝚃𝙴𝙲𝙷*" 
 
 
 global.devs = "254707541188" // Developer Contact
@@ -42,7 +42,7 @@ global.disablepm = process.env.DISABLE_PM || "false"
 global.disablegroup = process.env.DISABLE_GROUPS || "false", // disable bot in groups when public mode
 
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false" // "true"  to see messages , "log" to show logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES || "text"  // "text" // set Image/video urls here
+global.userImages= process.env.USER_IMAGES || "https://github.com/MeshTechInfo/Suhail-Md-V5/blob/main/lib/assets/pk.jpg?raw=𝚝𝚛𝚞𝚎"  // "text" // set Image/video urls here
 global.waPresence= process.env.WAPRESENCE ||  "null" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
@@ -72,12 +72,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.3.9",
-  caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ MESH-TECH 』```", //*『sᴜʙsᴄʀɪʙᴇ • MESH-TECH』*\n youtube.com/MeshKip"),
+  caption : global.caption || "" , // ```『 𝓟𝓸𝔀𝓮𝓻𝓮𝓭 𝓫𝔂 𝓜𝓮𝓼𝓱-𝓣𝓮𝓬𝓱 』```", //*\n youtube.com/MeshKip"),
  
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "MESH-TECH",
-  ownername:process.env.OWNER_NAME|| "Mesh KE",
+  botname : process.env.BOT_NAME  || "🄼🄴🅂🄷-🆃🅴🅲🅷",
+  ownername:process.env.OWNER_NAME|| "𝗠𝗲𝘀𝗵 𝗞𝗘",
 
 
   errorChat : process.env.ERROR_CHAT || "",
